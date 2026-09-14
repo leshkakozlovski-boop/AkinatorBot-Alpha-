@@ -1,0 +1,4 @@
+chromadb==1.5.9
+openai==3.8.0
+pandas==3.0.5
+pyTelegramBotAPI==4.36.1
